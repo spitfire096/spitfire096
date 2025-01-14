@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @spitfire096    
-- 👀 I’m interested in becoming a proficient DevOps Engineer
-- 🌱 I’m currently learning some DevOps tools like Docker, Kubernetes, Jenkins, Git, and Terraform. Also gaining more experience in cloud platforms (AWS, GCP, Azure) for infrastructure management and deployment, and acquring knowledge of Infrastructure as Code (IaC) with tools like Terraform and Ansible
-- 💞️ I’m looking to collaborate on contributing, reviewing, and improve automation of software testing and deployment through CI/CD pipelines.
-- 📫 Please reach me via a DM
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m @spitfire096 👋
+🚀 Aspiring DevOps Engineer with a passion for automation, scalability, and cloud solutions.
 
-<!---
-spitfire096/spitfire096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests:
+I’m focused on becoming a highly proficient DevOps Engineer by mastering tools and practices that drive efficient and reliable software delivery.
+
+🌱 Currently Learning:
+Containerization & Orchestration: Hands-on experience with Docker and Kubernetes to streamline application deployment and scaling.
+
+CI/CD Pipelines: Developing and automating pipelines using Jenkins and GitHub Actions for faster, seamless software delivery.
+
+Cloud Platforms: Gaining advanced knowledge in AWS, Azure, and GCP for infrastructure management and deployment.
+
+Infrastructure as Code (IaC): Leveraging tools like Terraform and Ansible to automate and standardize infrastructure provisioning and configuration.
+
+Scripting: Enhancing my Python and Bash skills for operational automation and efficiency.
+
+💞️ Collaboration Goals:
+I’m eager to:
+Contribute to open-source projects that involve DevOps practices, cloud computing, or automation.
+Collaborate on CI/CD initiatives, focusing on software testing and deployment automation.
+Learn and share knowledge about modern DevOps tools, cloud platforms, and best practices.
+
+📫 Get in Touch:
+Feel free to reach out via DM or connect on LinkedIn to discuss collaboration opportunities, projects, or DevOps trends!
