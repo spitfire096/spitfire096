@@ -23,4 +23,4 @@ I’m eager to:
 3. Learn and share knowledge about modern DevOps tools, cloud platforms, and best practices.
 
 ## 📫 Get in Touch:
-Feel free to reach out via DM or connect on LinkedIn to discuss collaboration opportunities, projects, or DevOps trends!
+Feel free to reach out via DM or connect on LinkedIn: https://www.linkedin.com/in/dimejidurojaiye to discuss collaboration opportunities, projects, or DevOps trends!
