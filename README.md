@@ -41,7 +41,9 @@ Knowledge-sharing initiatives on Infrastructure as Code and containerization.
 📫 Connect with Me
 
 LinkedIn: dimejidurojaiye
+
 Email: domeji14@gmail.com
+
 Feel free to reach out to discuss DevOps trends, cloud projects, or collaboration opportunities!
 
 📊 GitHub Stats
