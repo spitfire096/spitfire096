@@ -16,7 +16,9 @@ Scripting & Tools: Python, Bash, Git, Linux
 
 ## 🏆 Certifications
 Microsoft Certified: Azure Administrator (AZ-104) | Aug 2024
+
 Google Cloud Digital Leader | Jan 2024
+
 AWS Certified Solutions Architect – Associate (In Progress, Target Q2 2025)
 
 ## 👀 Interests:
