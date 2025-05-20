@@ -15,11 +15,11 @@ Monitoring: AWS CloudWatch, CloudTrail, Config
 Scripting & Tools: Python, Bash, Git, Linux
 
 ## 🏆 Certifications
-Microsoft Certified: Azure Administrator (AZ-104) | Aug 2024
+Microsoft Certified: Azure Administrator (AZ-104)
 
-Google Cloud Digital Leader | Jan 2024
+Google Cloud Digital Leader
 
-AWS Certified Solutions Architect – Associate (In Progress, Target Q2 2025)
+AWS Certified Solutions Architect – Associate
 
 ## 👀 Interests:
 I’m focused on becoming a highly proficient DevOps Engineer by mastering tools and practices that drive efficient and reliable software delivery.
