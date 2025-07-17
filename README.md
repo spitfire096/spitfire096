@@ -1,5 +1,5 @@
 ## Oladimeji Durojaiye | DevOps & Cloud Engineer 👋
-🚀 Hi, I'm Oladimeji (@spitfire096), an AWS and Azure-certified DevOps Engineer passionate about automating cloud infrastructure and building scalable systems. I specialize in CI/CD pipelines, container orchestration, and Infrastructure as Code, with a track record of reducing deployment times by 40% and improving application uptime by 30%.
+Hi, I'm Oladimeji (@spitfire096), an AWS and Azure-certified DevOps Engineer passionate about automating cloud infrastructure and building scalable systems. I specialize in CI/CD pipelines, container orchestration, and Infrastructure as Code, with a track record of reducing deployment times by 40% and improving application uptime by 30%.
 
 ## 🔧 Skills
 Cloud Platforms: AWS, Microsoft Azure, Google Cloud
