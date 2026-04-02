@@ -1,46 +1,57 @@
-## Oladimeji Durojaiye | DevOps & Cloud Engineer 👋
-Hi, I'm Oladimeji (@spitfire096), an AWS and Azure-certified DevOps Engineer passionate about automating cloud infrastructure and building scalable systems. I specialize in CI/CD pipelines, container orchestration, and Infrastructure as Code, with a track record of reducing deployment times by 40% and improving application uptime by 30%.
+<h1 align="center">Hi, I'm Oladimeji 👋</h1>
+<h3 align="center">Cloud & DevOps Engineer | AWS SAA | AZ-104 | Terraform | Kubernetes | CI/CD</h3>
 
-## 🔧 Skills
-Cloud Platforms: AWS, Microsoft Azure, Google Cloud
+<p align="center">
+  <a href="https://linkedin.com/in/dimejidurojaiye"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:duro0063@algonquinlive.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Infrastructure as Code: Terraform, Ansible, CloudFormation
+---
 
-Containers & Orchestration: Docker, Kubernetes, Helm
+### 🧰 Tech Stack
 
-CI/CD Tools: Jenkins, GitHub Actions, AWS CodePipeline
+**Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-Monitoring: AWS CloudWatch, CloudTrail, Config
+**IaC & Automation**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-Scripting & Tools: Python, Bash, Git, Linux
+**Containers & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## 🏆 Certifications
-Microsoft Certified: Azure Administrator (AZ-104)
+**CI/CD**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-Google Cloud Digital Leader
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Java 17](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-AWS Certified Solutions Architect – Associate
+---
 
-## 👀 Interests:
-I’m focused on becoming a highly proficient DevOps Engineer by mastering tools and practices that drive efficient and reliable software delivery.
+### 🚀 Featured Projects
 
-## 🌱 Currently Learning:
+| Project | Description | Stack |
+|---|---|---|
+| [aws-serverless-multitier](https://github.com/spitfire096/aws-serverless-multitier) | Serverless multi-tier app on AWS | Lambda · API GW · DynamoDB |
+| [webapp-reArchitecting](https://github.com/spitfire096/webapp-reArchitecting) | Cloud-native re-architecture of 3-tier app | Beanstalk · RDS · ElastiCache |
+| [containerized-sports-api](https://github.com/spitfire096/containerized-sports-api) | Dockerized REST API | Docker · ECR |
+| [NBADataLake](https://github.com/spitfire096/NBADataLake) | Serverless data lake pipeline | S3 · Glue · Athena · Python |
+| [gameday-notification](https://github.com/spitfire096/gameday-notification) | Event-driven notification system | Lambda · SNS · EventBridge |
+| [webapp-awsLiftShift](https://github.com/spitfire096/webapp-awsLiftShift) | Lift & shift migration to AWS | EC2 · ELB · Route 53 |
 
-1. Containerization & Orchestration: Hands-on experience with Docker and Kubernetes to streamline application deployment and scaling.
+---
 
-2. CI/CD Pipelines: Developing and automating pipelines using Jenkins and GitHub Actions for faster, seamless software delivery.
+### 🏅 Certifications
 
-3. Cloud Platforms: Gaining advanced knowledge in AWS, Azure, and GCP for infrastructure management and deployment.
-
-4. Infrastructure as Code (IaC): Leveraging tools like Terraform and Ansible to automate and standardize infrastructure provisioning and configuration.
-
-5. Scripting: Enhancing my Python and Bash skills for operational automation and efficiency.
-
-## 💞️ Collaboration Goals:
-I’m eager to:
-1. Contribute to open-source projects that involve DevOps practices, cloud computing, or automation.
-2. Collaborate on CI/CD initiatives, focusing on software testing and deployment automation.
-3. Learn and share knowledge about modern DevOps tools, cloud platforms, and best practices.
-
-## 📫 Get in Touch:
-Feel free to reach out via DM or connect on LinkedIn: https://www.linkedin.com/in/dimejidurojaiye to discuss collaboration opportunities, projects, or DevOps trends!
+![AWS SAA](https://img.shields.io/badge/AWS_SAA-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AZ-104](https://img.shields.io/badge/Azure_AZ--104-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Digital_Leader-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-C8202F?style=flat&logo=comptia&logoColor=white)
